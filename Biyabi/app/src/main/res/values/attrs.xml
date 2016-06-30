@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HomeTitleIndictor">
+        <attr name="count" format="integer" />
+        <attr name="radius" format="dimension" />
+        <attr name="space" format="dimension" />
+        <attr name="focusColor" format="color" />
+        <attr name="normalColor" format="color" />
+        <attr name="index" format="integer" />
+    </declare-styleable>
+</resources>
